@@ -1,4 +1,4 @@
-# STM32 IoT Application Development Lab
+# IoT Application Development Lab
 
 <p align="center">
   <img src="Docs/Images/banner.png" width="900">
